@@ -35,7 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research has focused on the evolutionary patterns of habitat transitions in aquatic Coleoptera by combining molecular biology, ecology, and taxonomy. I am interested in understanding how biodiversity is assembled and the evolutionary processes behind it. My current projects include:\nCryptic diversity in coastal habitats in the western Palaearctic region using supralittoral Ochthebius beetles.\rEvolutionary dynamics across an extreme altitudinal gradient in Southeast Asia: from alpine to subterranean habitats\rHigh-altitude water beetle evolution in the Andes Cordillera
+        My research has focused on the evolutionary patterns of habitat transitions in aquatic Coleoptera by combining molecular biology, ecology, and taxonomy. I am interested in understanding how biodiversity is assembled and the evolutionary processes behind it. My current projects include:
+    Cryptic diversity in coastal habitats in the western Palaearctic region using supralittoral Ochthebius beetles.
+    Evolutionary dynamics across an extreme altitudinal gradient in Southeast Asia: from alpine to subterranean habitats.
+    High-altitude water beetle evolution in the Andes Cordillera.
     design:
       columns: '1'
   - block: collection
