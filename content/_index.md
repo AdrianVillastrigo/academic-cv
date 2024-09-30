@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research has focused on the evolutionary patterns of habitat transitions in aquatic Coleoptera by combining molecular biology, ecology, and taxonomy. I am interested in understanding how biodiversity is assembled and the evolutionary processes behind it. My current projects include:\nCryptic diversity in coastal habitats in the western Palaearctic region using supralittoral Ochthebius beetles.\rEvolutionary dynamics across an extreme altitudinal gradient in Southeast Asia: from alpine to subterranean habitats\rHigh-altitude water beetle evolution in the Andes Cordillera
     design:
       columns: '1'
   - block: collection
